@@ -1,5 +1,3 @@
-# NOT COMPLETED YET.
-
 # Data Jobs Analysis 2023 (PostgreSQL Project)
 
 ## 📌 Introduction
